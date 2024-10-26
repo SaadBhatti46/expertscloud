@@ -1,0 +1,23 @@
+.content{
+  /* background-color: #342628; */
+  max-width: 100%;
+}
+.company-name{
+  color: white;
+  background-color: #342628;
+  text-align: center;
+  
+}
+
+.col{
+  background-color: grey;
+  padding: 10%;
+  height: 50%;
+}
+
+/* 
+.card-boundary{
+  background-color: #342628;
+  width: 30%;
+  height: 55%;
+} */

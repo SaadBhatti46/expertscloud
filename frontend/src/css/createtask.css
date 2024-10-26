@@ -1,0 +1,26 @@
+.apcreate{
+    background-color: #342628;
+}
+
+
+.create-form{
+    position: absolute; top: 50%; left: 60%; transform: translate(-50%, -50%);
+    width: 80%;
+}
+
+ #createtask{
+    margin-top: 5%;
+    margin-left: 2%;
+}
+
+#usr{
+    width: 50%;
+}
+#td{
+    width: 50%;
+    resize: none;
+}
+
+.form-group{
+    padding: 2%;
+}
